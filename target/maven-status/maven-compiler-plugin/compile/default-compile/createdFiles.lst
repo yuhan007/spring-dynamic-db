@@ -1,0 +1,11 @@
+com\demo\dynamic\helpper\SpringContextHolder.class
+com\demo\dynamic\helpper\DataSource.class
+com\demo\dynamic\mapper\UserMapper.class
+com\demo\dynamic\helpper\DataSourceContextHolder.class
+com\demo\dynamic\service\UserService.class
+com\demo\dynamic\service\BookService.class
+com\demo\dynamic\mapper\BookMapper.class
+com\demo\dynamic\model\Book.class
+com\demo\dynamic\helpper\DynamicDataSource.class
+com\demo\dynamic\helpper\DynamicDataSourceAspect.class
+com\demo\dynamic\model\User.class
